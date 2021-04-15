@@ -1,0 +1,1 @@
+This is my First Web Project, i know that it isn`t completed at all. I tried my best and i know it has room for so many things  to change and make better. This project is made for the "Për Programera Bootcamp" as a homework given by our teacher. 
